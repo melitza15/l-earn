@@ -22,6 +22,8 @@ ADA is the Cardano's currency. Every ada holder also holds a stake in the Cardan
 ## How Do I Store My Ada And Keep It Safe?
 
 In addition to the variation of wallets available, there are also two types of wallets: 
+![wallets](https://user-images.githubusercontent.com/67475555/149585458-9a8cc130-6727-4b09-96eb-b7ac52d6d840.jpg)
+
 
 ### A Hot Wallet: is connected to the internet and can be accessed at any time with the requisite keys. Examples of hot wallets include mobile and software wallets, and funds stored on exchanges.
 
